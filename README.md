@@ -1,7 +1,7 @@
 # MVC-step-by-step
 ## Create a new page in framework project, web bootcamp 2, lesson 13, first 25 minutes
 
-Create a page Articles
+### Create a page Articles
 
 1) app/Global/header.php
 ```
